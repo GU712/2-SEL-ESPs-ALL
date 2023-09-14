@@ -1,9 +1,6 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink><channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A1-SEL-J.B.007-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
@@ -31,25 +28,9 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<name>[COLOR white][B]James Bond Agente 007 (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B20-James.Bond.Jr-ALL</externallink>
-<thumbnail>https://i.ibb.co/x8BsBKv/ESP-007-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DzZhnMS/COL-007-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
-[B]James Bond Agente 007
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os desenhos que temos sobre James Bond Agente 007.
-Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO .
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
-<name>[COLOR white][B]James Bond Jr. (1991) - (Desenhos)[/B][/COLOR]</name>
+<name>[COLOR white][B]James Bond Jr. (1991) - (Desenho)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A1C1-DSH-James.Bond.Jr-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/cwUnbz31k7K5fV0zximhN2nPM14.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cfbBpIFPeuhtGkt3rScTJgI9eXQ.jpg</fanart>

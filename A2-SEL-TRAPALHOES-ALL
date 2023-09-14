@@ -14,8 +14,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Os Trapalhões (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A2A-FLM-TRAPALHOES-ALL</externallink>
-<thumbnail>https://i.ibb.co/NswTzPF/TRAPA-FLMS.png</thumbnail>
-<fanart>https://i.ibb.co/379JxKp/TRAPA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/3016Xfv/ESP-TRAPA-ICON-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/1QCc63Y/ESP-TRAPA-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Os Trapalhões
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
@@ -32,8 +32,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Os Trapalhões (Séries)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A2B-SEL-SRS-TRAPALHOES-ALL</externallink>
-<thumbnail>https://i.ibb.co/NtbTDVs/TRAPA-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/379JxKp/TRAPA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/fk1BcSp/ESP-TRAPA-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/1QCc63Y/ESP-TRAPA-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
 [B]Os Trapalhões
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
@@ -49,8 +49,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[COLOR white][B]Os Trapalhões (Desenhos)[/B][/COLOR]</name>
 <externallink><LINKRAWPAGEALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://i.ibb.co/jW314Hf/ESP-TRAPA-ICON-DSH-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/1QCc63Y/ESP-TRAPA-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Os Trapalhões
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
@@ -195,4 +195,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-

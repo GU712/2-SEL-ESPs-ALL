@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5-SEL-TARZAN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5C-SEL-DSH-TARZAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,17 +12,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Tarzan (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5A-FLM-TARZAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/9ZvGVFb/ESP-TARZAN-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de filmes: 
-[B]Tarzan
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+<name>[COLOR white][B]A Lenda de Tarzan (2001-2003) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5C1-DSH-A.Lenda.de.Tarzan-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hjqUwvok9RdKqtEnwzOZmrQLUoX.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Lenda de Tarzan
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 2001 a 2003
 [COLOR orange]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os filmes que temos sobre Tarzan.
-Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO.
+[COLOR orange]02 TEMPs - 39 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Série animada que é repleta de animação e aventura.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -30,45 +30,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Tarzan (Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5B-SEL-SRS-TARZAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/7R1DYfj/ESP-TARZAN-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
-[B]Tarzan
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir as séries que temos sobre Tarzan.
-Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO.
+<name>[COLOR white][B]Tarzan - O Rei das Selvas (1976-1979) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5C2-DSH-O.Rei.das.Selvas-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6LjczjwGOHIBpbtqfZdtcmo1VZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Tarzan - O Rei das Selvas
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOs - 1976 a 1979
+[COLOR orange]DESENHOS
+[COLOR orange]04 TEMPs - 47 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na versão original, não existe Chita e sim o macaquinho Nikima. Nesse desenho, Tarzan enfrenta perigos desse e de outros mundos. 
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Tarzan (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/8C-SEL-SRS-DSH-TARZAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/vY37X2g/ESP-TARZAN-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
-[B]Tarzan
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os desenhos que temos sobre Tarzan.
-Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5-SEL-TARZAN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5C-SEL-DSH-TARZAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -78,6 +59,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5C-SEL-DSH-TARZAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DO TARZAN[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5-SEL-TARZAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>

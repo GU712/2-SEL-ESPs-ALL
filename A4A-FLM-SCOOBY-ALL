@@ -418,7 +418,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Fantasma da Ópera (2013) - SD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2013.O.Fantasma.da.Opera.SD.DUB.mp4</link>
+<link>https://luminart.ls.lsnew.workers.dev/1:/ESPC/A4-SCOOBY.DOO/FLM/LS-2013.O.Fantasma.da.Opera.HD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/A4brgTdVRfuULvZyZGm03qNdUlJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1GhYVdeeFzr4ZnVAolAblunYeSD.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
@@ -637,18 +637,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! e o Lobisomem (1988)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47bbfc3f1af780990411360ea9b0cc008a292d48$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD LEG[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9da83de909ab1da9b0f464ccb1e366f895dd7335$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD LEG[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.O.Lobisomem.2007.SD.dub$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - SD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vQ3Z6XlfUKdJMir4ekAkXNqMhj0.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/jD6vTFpPOEljawajOuoSbaIp3kA.jpg</fanart>	
-<info>É o “Grand Prix” da Transilvânia, o rali anual de todos os monstros, mas está faltando um lobisomem para preencher as regras da competição. Para a sorte dos participantes, o conde Drácula possui o poder de transformar um ser humano nesse monstro uma vez a cada cem anos e esta é a época correta.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Lobisomem (1988) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/ESPC/A4-SCOOBY.DOO/FLM/LS-1988.O.Lobisomem.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vQ3Z6XlfUKdJMir4ekAkXNqMhj0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yB32nYB9WfXye681xtx3t3aQ6AD.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Lobisomem
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1988
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]É o “Grand Prix” da Transilvânia, o rali anual de todos os monstros, mas está faltando um lobisomem para preencher as regras da competição. Para a sorte dos participantes, o conde Drácula possui o poder de transformar um ser humano nesse monstro uma vez a cada cem anos e esta é a época correta.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Scooby-Doo! em Uma Noite das Arábias (1994)[/B][/COLOR]</title>	

@@ -151,13 +151,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]FILMES EM ANIMAÇÃO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>	
-<fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>	
-<info>Os filmes lançados apenas em DVD.	
-[COLOR orange][B]31 FILMES[/B][/COLOR]	
-[COLOR orange][B]ANOS - 1998 a 2019[/B][/COLOR]	
-[COLOR orange][B]Filmes lançados em DVD.[/B][/COLOR]</info>	
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
+<fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
+<info>Os filmes lançados apenas em DVD.
+[COLOR orange][B]31 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1998 a 2019[/B][/COLOR]
+[COLOR orange][B]Filmes lançados em DVD.[/B][/COLOR]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <item>	
@@ -216,16 +216,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! E a Lenda do Vampiro (2003)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=FaDEIXgzAbU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! E a Lenda do Vampiro[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.A.Lenda.do.Vampiro.2003.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! E a Lenda do Vampiro - HD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vjGd0lEWNX1GUZ4IehyBBHHSJJl.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/oKGpqHulHyqAc0Pzv7UMNGBgMCR.jpg</fanart>	
-<info>Scooby-Doo e sua turma fingem ser integrantes de uma banda de rock depois que um vampiro começa a raptar músicos de um show na Austrália.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Lenda do Vampiro (2003) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2003.E.A.Lenda.do.Vampiro.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zaq9f2oDvk1cYLBa0ZliVoYa1ZT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oxMwNfZMpAbThBMF86mC1T78Ypp.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Lenda do Vampiro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 2003
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby-Doo e sua turma fingem ser integrantes de uma banda de rock depois que um vampiro começa a raptar músicos de um show na Austrália.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Scooby-Doo e o Monstro do Lago Ness (2004)[/B][/COLOR]</title>	
@@ -301,16 +305,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo e a Espada do Samurai (2009)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=_eCfQTHXvVM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e a Espada do Samurai[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.A.Espada.do.Samurai.2009.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e a Espada do Samurai - HD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yHcRRtWYGpMsO7tofPqLObYCvyX.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/mTps0RmyJvIhpXzTBIju7Ag2MM6.jpg</fanart>	
-<info>Enquanto estão em Tóquio para um torneio de artes marciais, Scooby, Shaggy e o resto da gangue da Mystery Inc, são confrontados pelo Samurai Black, um espírito maligno que foi vencido no Japão antigo, mas foi misteriosamente ressuscitado. A fim de derrotar o samurai, a turma terá que vencê-lo em uma caça ao tesouro por toda Ásia, resolvendo enigmas e lutando contra ninjas no caminho.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Espada do Samurai (2009) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2009.E.A.Espada.do.Samurai.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/thzMM3VVO5ovNB9w9s6VC2NsIM0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lpBfqwIovYbqwkdI2GeYqB0QkpL.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Espada do Samurai
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 2009
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Tóquio para um torneio de artes marciais, Scooby, Shaggy e o resto da gangue da Mystery Inc, são confrontados pelo Samurai Black, um espírito maligno que foi vencido no Japão antigo, mas foi misteriosamente ressuscitado. A fim de derrotar o samurai, a turma terá que vencê-lo em uma caça ao tesouro por toda Ásia, resolvendo enigmas e lutando contra ninjas no caminho.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Scooby-Doo! Acampamento do Susto (2010)[/B][/COLOR]</title>	
@@ -481,13 +489,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Combate do Salsicha (2017) - HD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2017.Combate.do.Salsicha.2017.HD.DUB.mkv</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Combate do Salsicha (2017) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2017.Combate.do.Salsicha.2017.FHD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hj3LWwSEksRbgYy2NVu6oFlbXiQ.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/jSTeNrb6fBiPEceHuOKMstqEBPu.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Combate do Salsicha
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO - 2017
 [COLOR orange]SCOOBY-DOO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando a turma visita um rancho, eles descobrem que ele e a cidade vizinha foram assombrados por um vaqueiro fantasmagórico, Dapper Jack. O mistério se aprofunda quando descobrem que o fantasma é também parente do Salsicha.
@@ -521,31 +529,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! De Volta à Ilha dos Zumbis (2019)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=C-vlv6RWS6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! De Volta a Ilha dos Zumbis[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593d29a12d096e8eeea595d0fda69808ccaac59d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! De Volta a Ilha dos Zumbis - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4681673f0f85e5f3f75c5efaafb8afc837e02305$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! De Volta a Ilha dos Zumbis - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-De.Volta.a.Ilha.dos.Zumbis.2019.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! De Volta a Ilha dos Zumbis - HD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg</fanart>	
-<info>Junte-se a Scooby-Doo, Salsicha e à turma da Mistério S/A, que ganharam uma viagem incrível e decidiram tentar deixar os dias de resolução de mistérios para trás. Mas assim que chegam à ilha tropical, Velma, Daphne e Fred logo percebem que o lugar é estranhamente familiar a uma viagem assustadora que fizeram décadas atrás. Não vai demorar muito para eles descobrirem que esse paraíso tropical tem um preço, pois um exército de zumbis saqueadores os esperam! Embarque e viaje com Scooby-Doo e sua turma enquanto eles desvendam os mistérios da Ilha Zumbi nesse filme de aventura original.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]De Volta à Ilha dos Zumbis (2019) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/ESPC/A4-SCOOBY.DOO/FLM/LS-2019.De.Volta.a.Ilha.dos.Zumbis.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jISHGP61P2dpLbSOyhozJCUavdD.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]De Volta à Ilha dos Zumbis
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 2019
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby-Doo, Salsicha e à turma da Mistério S/A, que ganharam uma viagem incrível e decidiram tentar deixar os dias de resolução de mistérios para trás. Mas assim que chegam à ilha tropical, Velma, Daphne e Fred logo percebem que o lugar é estranhamente familiar a uma viagem assustadora que fizeram décadas atrás.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! e a Maldição do 13° Fantasma (2019)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=QlScwo2Dmic$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e a Maldisao do 13 Fantasma[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d142af2399005e1fdaaa39d56d002e1515d49d0e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e a Maldisao do 13 Fantasma - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227882f1c9f6e0a01d91a0202adf5f9bfeb0fc2c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e a Maldisao do 13 Fantasma - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.a.Maldicao.do.13.Fantasma.2019.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! e a Maldisao do 13 Fantasma - FHD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/1jTdxb3Jyq3XovVXdCB3NnAe7Vv.jpg</fanart>	
-<info>Scooby-Doo e seus amigos embarcam em uma emocionante jornada em busca do do misterioso baú perdido contendo os espíritos de 12 perigosos fantasmas, na intenção de capturar o 13º fantasma que escapou. Enquanto o mundo inteiro está em perigo pela ameaça do ser fantasmagórico, eles precisam correr contra o tempo para solucionar mais um mistério.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Maldição do 13° Fantasma (2019) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2019.A.Maldisao.do.13.Fantasma.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s15MGIrZnM5vAeJBrDI76iqiBS8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4MuN8RkgXcfunFDql849t2ru0t4.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Maldição do 13° Fantasma
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 2019
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby-Doo e seus amigos embarcam em uma emocionante jornada em busca do do misterioso baú perdido contendo os espíritos de 12 perigosos fantasmas, na intenção de capturar o 13º fantasma que escapou. Enquanto o mundo inteiro está em perigo pela ameaça do ser fantasmagórico, eles precisam correr contra o tempo para solucionar mais um mistério.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR orange][B]CURTAS[COLOR yellow] -> [COLOR orange]FILMES PARA TELEVISÃO[/B][/COLOR]</title>	
@@ -583,18 +595,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo e a Escola Assombrada (1988)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=Rg9DbB_kqok$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e a Escola Assombrada[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb74683fe0c6acba2bca3593f6578bd3200de8ed$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - HD DUB[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c051a117984d0430bc8abadc330a4b0e1ad9567c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - FHD DUB[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.a.Escola.Mal-Assombrada.1988.SD.dub.avi$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e a Escola Assombrada - SD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/duMdoHLQvnzRDZm2CD66DT4PvS5.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/i5H0SEh4KKijCg1irSJKqdZEFOs.jpg</fanart>	
-<info>Salsicha consegue um emprego como professor de educação física numa escola de criaturas sobrenaturais chamada Escola Grimwood, e se torna responsável pela segurança das alunas Sibelle, filha do Conde Drácula, Winnie, filha de um lobisomem, Elza, filha do Frankenstein, Tannis, filha de uma múmia e Phantasma, filha de um fantasma. Os terríveis monstros avisam a Salsicha e Scooby-Doo de que estes pagariam caro se algo de ruim acontecesse às suas filhas. Os problemas começam quando uma terrível bruxa chamada Revolta, com a ajuda de seu monstro-ajudante Creeeper, sequestra as meninas para revoltalizá-las e conquistar o mundo. Então Salsicha, Scooby-Doo e Scooby-Loo tem como missão resgatá-las e assim acabar com o plano de Revolta. Os heróis também contam com a ajuda dos garotos-cadetes da Escola Calloway, uma escola rival da Escola Grimwood.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Escola Assombrada (1988) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-1988.E.a.Escola.Mal-Assombrada.SD.DUB.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vUXo12Gwyv61llyCB5n967dor68.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i5H0SEh4KKijCg1irSJKqdZEFOs.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Escola Assombrada
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1988
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Salsicha consegue um emprego como professor de educação física numa escola de criaturas sobrenaturais chamada Escola Grimwood, e se torna responsável pela segurança das alunas Sibelle, filha do Conde Drácula, Winnie, filha de um lobisomem, Elza, filha do Frankenstein, Tannis, filha de uma múmia e Phantasma, filha de um fantasma.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Scooby-Doo! e o Lobisomem (1988)[/B][/COLOR]</title>	

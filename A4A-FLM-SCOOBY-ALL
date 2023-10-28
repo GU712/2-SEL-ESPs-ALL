@@ -667,17 +667,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! e os Irmãos Boo (1987)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=zKj2aHzSdCg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e os Irmaos Boo[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c40ab87767fd8d1fa9065a04459bfac79c5d321d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e os Irmaos Boo - HD DUB[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-E.os.Irmaos.Pavor.1987.SD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! e os Irmaos Boo - SD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jKmHNGED3cUyXd6oge5uuHYh3f.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/5p9HiIQdUBOXjfz8ujFqaQRST8K.jpg</fanart>	
-<info>Scooby Doo juntamente com sua nova turma Scrappy Doo e Shaggy vão para uma nova e engraçada aventura em busca de uma herança em uma casa mal assombrada. Para encontrá-la eles terão que enfrentar seus próprios fantasmas além de passagens secretas, esqueletos e muitas outras coisas assustadoras.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Irmãos Boo (1987) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-1987.Os.Irmaos.Pavor.SD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/st2fZeOvorkPyRkBemri3HdJEtT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5p9HiIQdUBOXjfz8ujFqaQRST8K.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Irmãos Boo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1987
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby Doo juntamente com sua nova turma Scrappy Doo e Shaggy vão para uma nova e engraçada aventura em busca de uma herança em uma casa mal assombrada. Para encontrá-la eles terão que enfrentar seus próprios fantasmas além de passagens secretas, esqueletos e muitas outras coisas assustadoras.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Escola Assombrada (1988) - SD DUB[/B][/COLOR]</title>

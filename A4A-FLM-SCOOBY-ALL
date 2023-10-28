@@ -49,31 +49,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby! O Filme (2020)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=b15_u5wYB0I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby - O Filme[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7ec0c7ebee594afed91113a840facb5b8fd96d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby - O Filme - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ee8d3dd41d3178a61fc9731f3d5053e439dcccb$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby - O Filme - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-Scooby.O.Filme.2020.FHD.DUAL.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby - O Filme - FHD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Scooby! O Filme (2020) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/ESPC/A4-SCOOBY.DOO/FLM/LS-2020.Scooby.O.Filme.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>	
-<info>Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<fanart>https://www.themoviedb.org/t/p/original/hJzHvp3DvNH6PaTiI8IynfRFsU1.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Scooby! O Filme
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 2020
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! Halloween (2020)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=HHfA6s9mx5k$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! Halloween[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4640b7555af1206c3258b346f263d9389db39$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0e946012104834a19c4f2e9e7e7c0b04fd0e469$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-Halloween.2020.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! Halloween - HD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Halloween (2020) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2020.Halloween.FHD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg</fanart>	
-<info>Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<fanart>https://www.themoviedb.org/t/p/original/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Halloween
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 2020
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR orange]LIVE-ACTION[/B][/COLOR]</title>	
@@ -86,71 +90,80 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]Filmes do cinema.[/B][/COLOR]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo (2002)[/B][/COLOR]</title>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Scooby-Doo: O Filme (2002) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LA/LS-2002.Scooby-Doo.FHD.DUAL.LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ysgMWRbDXhEhcxcZGJiQXN4qzPO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Scooby-Doo: O Filme
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2002
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A equipe da Mystery Inc. une-se para investigar estranhos acontecimentos em um parque mal-assombrado chamado Spook Island. A atração parece assombrar jovens visitantes de maneiras muito estranhas, mas cabe a Scooby, Salsicha e todo o grupo desvendar o mistério.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<link>plugin://plugin.video.youtube/play/?video_id=o3dbeI0BU1k$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53d58918807dc018e1d27268f7b6956debd4ce8b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - HD DUB[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caa385c23ba160de57a3e4051f4b4990cc9887c4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - FHD LEG[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/LA/LS-Scooby-Doo.2002.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo - FHD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg</fanart>	
-<info>Dois anos depois de separarem-se após resolverem seu último caso, a equipe da Mystery Inc. une-se para investigar estranhos acontecimentos em um parque mal-assombrado chamado Spook Island.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR white][B]Scooby-Doo 2: Monstros à Solta (2004)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=TT76WvGRGEs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo 2 -  Monstros a Solta[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3713ceeb837cf30d721e1d78391af3729fe687$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - HD DUB[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e85fe7162d5af5461a769f5634ea910164c2d50e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - FHD LEG[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/LA/LS-Monstros.a.Solta.2004.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo 2 -  Monstros a Solta - FHD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Monstros à Solta (2004) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LA/LS-2004.Monstros.a.Solta.FHD.DUAL.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fvtSq9750cMxweg2rMnnU5994qm.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/Gp0dHVEPAodUnTb4HckVfpR3ya.jpg</fanart>	
-<info>Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, Velma e Scooby-Doo partem rumo a Coolsville para desvendar mais um mistério. Lá está um homem mascarado, que planeja usar uma máquina criadora de monstros para controlar o lugar. </info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<info>[COLOR white]Assista aqui o filme: 
+[B]Monstros à Solta
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2004
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, Velma e Scooby-Doo partem rumo a Coolsville para desvendar mais um mistério. Lá está um homem mascarado, que planeja usar uma máquina criadora de monstros para controlar o lugar.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! - O Misterio Começa (2009)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=v8uzAs7YWOY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo - O Misterio Comesa[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:930e619104d3663ad5b0c9b9fd842593e1bec710$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac331f640a90d83688a3ae85cfdd33076b02d649$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - FHD LEG[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/LA/LS-O.Misterio%20Comesa.2009.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo - O Misterio Comesa - HD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mistério Começa (2009) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LA/LS-2009.O.Misterio.Comesa.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/wLElaQVBtsjSEaoOhDWGfZFUapr.jpg</fanart>	
-<info>Injustamente acusados de encenar uma piada sobre fantasmas, os garotos são suspensos do colégio. Para limparem seus nomes, eles se unem para resolverem um mistério sobrenatural... E se envolvem em uma aventura repleta de bom humor.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<fanart>https://www.themoviedb.org/t/p/original/wLElaQVBtsjSEaoOhDWGfZFUapr.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Mistério Começa
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 2009
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Injustamente acusados de encenar uma piada sobre fantasmas, os garotos são suspensos do colégio. Para limparem seus nomes, eles se unem para resolverem um mistério sobrenatural. E se envolvem em uma aventura repleta de bom humor.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! e a Maldição do Monstro do Lago (2010)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=g2C4AAsJZaY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo e a Maldisao do Monstro do Lago[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:148f7e4de1af8b00a937509edcbb9ee8e93c6656$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5b5f4ca3fe6ac947cbe1d943c2e49d8c9aea846$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - FHD LEG[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/LA/LS-A.Maldisao.do.Monstro.do.Lago.2010.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo e a Maldisao do Monstro do Lago - HD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Maldição do Monstro do Lago (2010) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LA/LS-2010.A.Maldisao.do.Monstro.do.Lago.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/13anKM1yMz5cSUKZ214dSJzUlVf.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/s2zzIS4UmrkrCWU8dT603KaEAFR.jpg</fanart>	
-<info>A equipe da "Mistério S.A." arranjam trabalhos de Verão num campo de férias , onde se deparam com acontecimentos estranhos em redor do lago e um Monstro Sapo à solta.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<fanart>https://www.themoviedb.org/t/p/original/s2zzIS4UmrkrCWU8dT603KaEAFR.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Maldição do Monstro do Lago
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 2010
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A equipe da "Mistério S.A." arranjam trabalhos de Verão num campo de férias , onde se deparam com acontecimentos estranhos em redor do lago e um Monstro Sapo à solta.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Daphne e Velma (2018)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=A40-vFz3tc0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Daphne e Velma[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90b7d2e7675d769e5bf8082b18390fa6bd9257c2$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Daphne e Velma - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0eb7cf3d4e8907b9d54145d675ef4bafe7a0c8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Daphne e Velma - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/LA/LS-Daphne.e.Velma.2018.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Daphne e Velma - FHD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daphne e Velma (2018) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LA/LS-2018.Daphne.e.Velma.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wE0eIOcfpQxgUvRvF4TFrj7liWP.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/ezdWRbT70UIkhepcN0MC58sKpKf.jpg</fanart>	
-<info>Daphne e Velma, duas adolescentes solucionadoras de mistério, investigam o que está fazendo com que alguns dos estudantes mais brilhantes da escola se tornem zumbis.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<fanart>https://www.themoviedb.org/t/p/original/ezdWRbT70UIkhepcN0MC58sKpKf.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Daphne e Velma
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 2018
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daphne e Velma, duas adolescentes solucionadoras de mistério, investigam o que está fazendo com que alguns dos estudantes mais brilhantes da escola se tornem zumbis.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]FILMES EM ANIMAÇÃO[/B][/COLOR]</title>
@@ -505,7 +518,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando Salsicha e Scooby ganham bilhetes para WrestleMania, toda a turma viaja na Máquina Mistério para a WWE City para comparecer ao evento épico. No entanto, quando um urso fantasma misterioso aparece e ameaça arruinar o show, Scooby, Salsicha, Velma, Daphne e Fred irão trabalhar com Superstars da WWE para resolver o caso.
 [/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mistério do Rock and Roll (2015) - HD DUB[/B][/COLOR]</title>
@@ -523,7 +536,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
-<title>[COLOR white][B]Scooby-Doo! A Loucura do Monstro da Lua  (2015)[/B][/COLOR]</title>	
+<title>[COLOR white][B]Scooby-Doo! A Loucura do Monstro da Lua (2015)[/B][/COLOR]</title>	
 <link>plugin://plugin.video.youtube/play/?video_id=d1gRFg8Llvk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! A Loucura do Monstro da Lua[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbb52779af42d3597890782b8f62ab37c97e6ee9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! A Loucura do Monstro da Lua - HD LEG[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac69e8409908b887f828099b41199358f09f0422$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! A Loucura do Monstro da Lua - FHD DUAL[/B][/COLOR]</link>	
@@ -535,18 +548,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>	
-<title>[COLOR white][B]Scooby-Doo! e WWE: Maldição do Demônio Veloz (2016)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=lPf1D7liB0E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Scooby-Doo! e WWE: Maldisao do Demonio Veloz[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4beb06e3ca4cfc1dd40e246b093b3aaef44a12a2$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e WWE: Maldisao do Demonio Veloz - HD DUAL[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3b9c9d8530d3b63b2c23b6ce2c6c61a7d9c11b4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Scooby-Doo! e WWE: Maldisao do Demonio Veloz - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/Film/LS-Maldisao.do.Demonio.Veloz.2016.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Scooby-Doo! e WWE: Maldisao do Demonio Veloz - FHD DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBxCeMuOzjrCM8ZHISpil3rIMwL.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/ysgMWRbDXhEhcxcZGJiQXN4qzPO.jpg</fanart>	
-<info>Um demônio misterioso ameaça perturbar o mais recente empreendimento da WWE, então Mr. McMahon contrata Mistério Inc. para resolver o mistério. Enquanto Fred, Velma e Daphne correm para desvendar o caso, Salsicha e Scooby encontram se competindo na corrida ao lado do Undertaker. Depois de muitas voltas e reviravoltas, o Demônio é finalmente desmascarado – embora não é que todo mundo espera que ele seja.</info>	
-<genre>SCOOBY DOO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Maldição do Demônio Veloz (2016) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/A4-SCOOBY.DOO/FLM/LS-2016.Maldisao.do.Demonio.Veloz.FHD.DUAL.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9UoP4QKrLS7acpQP6R723rkwtHc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ysgMWRbDXhEhcxcZGJiQXN4qzPO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Maldição do Demônio Veloz
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 2016
+[COLOR orange]SCOOBY-DOO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um demônio misterioso ameaça perturbar o mais recente empreendimento da WWE, então Mr. McMahon contrata Mistério Inc. para resolver o mistério. Enquanto Fred, Velma e Daphne correm para desvendar o caso, Salsicha e Scooby encontram se competindo na corrida ao lado do Undertaker. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Combate do Salsicha (2017) - FHD DUB[/B][/COLOR]</title>

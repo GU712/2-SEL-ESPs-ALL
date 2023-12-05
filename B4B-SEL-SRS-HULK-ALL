@@ -12,35 +12,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]NomeAlvo (0000-0000) - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<name>[COLOR white][B]O Incrível Hulk (1977-1981) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C4-SRS-O.Incrivel.Hulk-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/zAim6MnM8LUY88GwIDoF9TX8ReU.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]NomeAlvo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]0000 a 0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]<NOMEDOGENERO>
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 000 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]NomeAlvo (0000-0000) - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]NomeAlvo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]0000 a 0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]<NOMEDOGENERO>
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 000 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[B]O Incrível Hulk
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1977 a 1981
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]05 TEMPs - 82 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
 [/COLOR]</info>
 </channel>
 </channels>
@@ -166,4 +148,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-

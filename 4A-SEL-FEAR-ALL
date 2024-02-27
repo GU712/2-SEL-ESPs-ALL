@@ -84,6 +84,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vampiros (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C4-SEL-VAMPIROS-ALL</externallink>
+<thumbnail>https://i.ibb.co/Htv93MG/ESP-VAMPIRO-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/xXRw2s2/ESP-VAMPIRO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Vampiros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zumbi (Filmes - Séries)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7-SEL-ZUMBI-ALL</externallink>
 <thumbnail>https://i.ibb.co/YN349ks/ESP-ZUMBI-ICON-ALL-ALL.png</thumbnail>

@@ -66,6 +66,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hulk (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D4-COL-Hulk-ALL</externallink>
+<thumbnail>https://i.ibb.co/K91NQMy/COL-HULK-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/y5WCXZf/COL-HULK-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Hulk
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulher Maravilha (Filmes - Séries)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C2-SEL-MULHER.MARAVILHA-ALL</externallink>
 <thumbnail>https://i.ibb.co/thkW0TJ/ESP-M-MARAVA-ICON-ALL-ALL.png</thumbnail>
@@ -84,12 +102,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B4-SEL-HULK-ALL</externallink>
-<thumbnail>https://i.ibb.co/X4N0f21/ESP-HULK-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DQFX2x0/ESP-HULK-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]O Incrível Hulk
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1-SEL-SUPERMAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/0jfGM9L/ESP-SUPERMAN-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/mNpSc9P/ESP-SUPERMAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]Superman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -102,12 +120,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1-SEL-SUPERMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/0jfGM9L/ESP-SUPERMAN-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/mNpSc9P/ESP-SUPERMAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Superman
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Thor (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D3-COL-Thor-ALL</externallink>
+<thumbnail>https://i.ibb.co/8sHv8MQ/COL-THOR-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/C0XKQ3g/COL-THOR-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Thor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  

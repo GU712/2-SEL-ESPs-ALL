@@ -84,24 +84,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hondo (Filme - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D02-COL-Hondo-ALL</externallink>
-<thumbnail>https://i.ibb.co/dt2mCMk/COL-HONDO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/P4TZQq1/COL-HONDO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Hondo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]James Bond Agente 007 (Filmes - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A1-SEL-J.B.007-ALL</externallink>
 <thumbnail>https://i.ibb.co/QjtgLnq/ESP-007-ICON-ALL-ALL.png</thumbnail>
@@ -128,6 +110,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]MacGyver
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Três Patetas (Filmes - Série)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D03-COL-Os.Tres.Patetas-ALL</externallink>
+<thumbnail>https://i.ibb.co/YQszvy2/COL-3-PTTAS-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/t2qS4c8/COL-3-PTTAS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Os Três Patetas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO

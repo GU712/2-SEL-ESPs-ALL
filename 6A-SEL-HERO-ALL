@@ -138,24 +138,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Fantasma (Filme - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D02-COL-O.Fantasma-ALL</externallink>
-<thumbnail>https://i.ibb.co/2tjMP6Z/COL-PHANTON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/kGHG6Y0/COL-PHANTON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]O Fantasma
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quarteto Fantástico (Filmes - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D01-COL-Quarteto.Fantastico-ALL</externallink>
 <thumbnail>https://i.ibb.co/6WMSv21/COL-FANT-4-ICON-ALL-ALL.png</thumbnail>
@@ -210,11 +192,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B3-SEL-X.MEN-ALL</externallink>
-<thumbnail>https://i.ibb.co/gV7DTtw/ESP-XMEN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3CXdPbC/ESP-XMEN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D03-COL-X-Men-ALL</externallink>
+<thumbnail>https://i.ibb.co/JtfcrfZ/COL-X-MEN-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/MCMwF2S/COL-X-MEN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
 [B]X-Men
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS

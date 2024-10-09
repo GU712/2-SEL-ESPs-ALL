@@ -12,6 +12,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hammer House - Mistério e Suspense (1984) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C10-SRS-Hammer.H.H.Misterio.Suspense.1984-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/zUcUSxhOZQjE18wtT0LeuBowy8Z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xAMURyJf2ohTYvwXL9GsUdTfAiU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Hammer House - Mistério e Suspense
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Hammer House of Mystery and Suspense foi uma série de televisão antológica de curta duração do Hammer Studios. Embora semelhante em formato à série Hammer House of Horror de 1980.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Harry, um Hóspede do Barulho (1991-1992) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C43-SRS-Harry.um.Hospede.Barulho.1991-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/uwyLTGY3gRXdowM4uTGwUBymnu5.jpg</thumbnail>
@@ -125,7 +143,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES - SERVER LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A1-SRS-GEN-LS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -210,4 +228,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-

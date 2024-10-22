@@ -1,18 +1,19 @@
 <channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>				
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>			
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>				
 </channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channels>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Guerra dos Mundos (2019) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]A Guerra dos Mundos (2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D05B-SRS-Guerra.dos.Mundos-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/68uDzEAtjM9NN8DloRXdZ9t4I05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg</fanart>
@@ -22,7 +23,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 03 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na Inglaterra Eduardiana, George e sua parceira Amy tentam desafiar a sociedade e começar uma vida juntos, enquanto enfrentam o terror crescente de uma invasão alienígena, lutando por suas vidas contra um inimigo além de sua compreensão.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na Inglaterra Eduardiana, George e sua parceira Amy tentam desafiar a sociedade e começar 
+uma vida juntos, enquanto enfrentam o terror crescente de uma invasão alienígena, lutando por suas vidas contra um inimigo além de sua compreensão.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -30,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ghost Whisperer (2005-2009) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Ghost Whisperer (2005-2009) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C34-SRS-Ghost.Whisperer-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dWhMavg03rBGM96JSQmiUGcj3WE.jpg</fanart>
@@ -40,7 +42,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 107 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Melinda Gordon se comunica com espíritos presos na Terra – fantasmas que se agarram aos vivos porque têm assuntos pendentes que os impedem de ir além do nosso plano de existência.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Melinda Gordon se comunica com espíritos presos na Terra – fantasmas que se agarram aos 
+vivos porque têm assuntos pendentes que os impedem de ir além do nosso plano de existência.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -48,8 +51,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Godless (2017) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C1-SRS-Godless-ALL</externallink>
+<name>[COLOR white][B]Godless (2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C001-SRS-Godless-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -58,7 +61,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que 
+encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -66,7 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra, Sombra e Água Fresca (1965-1970) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Guerra, Sombra e Água Fresca (1965-1970) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C21-SRS-Guerra.S.A.Fresca-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg</fanart>
@@ -76,20 +80,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1970
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 168 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. Eles se passam por prisioneiros de guerra, mas na verdade, são agentes secretos a serviço dos Aliados.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. 
+Eles se passam por prisioneiros de guerra, mas na verdade, são agentes secretos a serviço dos Aliados.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -98,99 +101,129 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES - SERVER LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A1-SRS-GEN-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOVIDADES DA SEMANA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOSTALGIA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]ESPECIAIS
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
+<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]FILMES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]MENU GERAL
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-

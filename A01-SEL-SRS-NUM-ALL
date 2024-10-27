@@ -76,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C002-SRS-24.Horas.2001-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kontV67LzDYqGXWKStWeZIrFYxv.jpg</fanart>
@@ -91,9 +91,7 @@ UCT, Jack deve parar bombas, vírus, tentativas de assassinato, e salvar alguém
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

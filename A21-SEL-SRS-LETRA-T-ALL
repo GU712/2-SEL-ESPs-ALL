@@ -267,7 +267,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Liberator (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C1-SRS-The.Liberator-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/refs/heads/main/C001-SRS-The.Liberator.2020-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>		
 <fanart>https://image.tmdb.org/t/p/original/uU23hb1c3LRqszBmBftLc2cMhbx.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -276,10 +276,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 04 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de corajosos soldados rejeitados realiza alguns dos feitos mais heroicos para 
-libertar a Europa na Segunda Guerra Mundial.
-[COLOR black].[/COLOR]
-Encontrou erros ?
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um grupo de corajosos soldados rejeitados realiza alguns dos feitos mais heroicos 
+para libertar a Europa na Segunda Guerra Mundial.
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
@@ -288,7 +288,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Pacific (2010) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C2-SRS-The.Pacific-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C002-SRS-The.Pacific.2010-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -297,10 +297,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A jornada de três membros do Corpo de Fuzileiros Navais dos Estados Unidos, desde a 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A jornada de três membros do Corpo de Fuzileiros Navais dos Estados Unidos, desde a 
 primeira batalha contra o Japão, em Guadalcanal, até seu retorno após o grande triunfo que deu fim à Segunda Guerra Mundial.
-[COLOR black].[/COLOR]
-Encontrou erros ?
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
@@ -322,6 +322,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A localização da cidade está contida em sete peças de marfim, das quais três Davidson já possui. 
 [COLOR black].[/COLOR]
 Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Rat Patrol (1966-1968) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C6-SRS-The.Rat.Patrol-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/wHJQ7QpmcqY0x6kGdlAwoJToUmo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qj8GmDzclHfpENki7x6WoUNt6UP.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Rat Patrol
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 58 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As façanhas de quatro soldados aliados – três americanos e um inglês – que fazem 
+parte de um grupo de patrulha do deserto de longo alcance na campanha do Norte de África durante a Segunda Guerra Mundial. 
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>

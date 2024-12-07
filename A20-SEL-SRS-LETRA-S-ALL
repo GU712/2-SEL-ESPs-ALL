@@ -307,34 +307,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Star Trek (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D07B-SRS-Star.Trek-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqwgv58/COL-STARTREK-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/d2HcbXk/COL-STARTREK-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/V9L3Pdc/ESP-STAR-TREK-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/sjXSpdQ/ESP-STAR-TREK-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
 [B]Star Trek
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[COLOR black].[/COLOR]
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Wars (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
-<thumbnail>https://i.ibb.co/j3GjC8P/COL-STARWARS-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/T2GTKyy/COL-STARWARS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
+<name>[COLOR white][B]Star Wars (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04-SEL-Star.Wars-ALL</externallink>
+<thumbnail>https://i.ibb.co/DM8ZRnh/ESP-STAR-WARS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/gy9dGmP/ESP-STAR-WARS-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
 [B]Star Wars
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[COLOR black].[/COLOR]
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

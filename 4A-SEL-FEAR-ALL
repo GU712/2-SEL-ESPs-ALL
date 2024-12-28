@@ -13,16 +13,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9-SEL-BELA.E.FERA-ALL</externallink>
-<thumbnail>https://i.ibb.co/zHLqQ5p/ESP-BELA-FERA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Tvkg550/ESP-BELA-FERA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]A Bela e a Fera (Filmes - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D08-SEL-Bela.e.Fera-ALL</externallink>
+<thumbnail>https://i.ibb.co/8PVvkyv/ESP-ABELA-E-FERA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/WBv4sT4/ESP-ABELA-E-FERA-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]A Bela e a Fera
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -69,16 +70,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Múmias (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C3-SEL-MUMIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/F0J1mSf/ESP-MUMIA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/LrvktTR/ESP-MUMIA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Mumias (Filmes - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D09-SEL-Mumias-ALL</externallink>
+<thumbnail>https://i.ibb.co/XYb7Fr5/ESP-MUMIA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Q9PgGZW/ESP-MUMIA-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
-[B]Múmias
+[B]Mumias
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>

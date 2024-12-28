@@ -1,193 +1,768 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A1-COL-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/K602hb3/SEL-ITEM-COL-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+E DIVIRTA-SE </info>	
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<channels>
-<channel>
-<name>[COLOR white][B]Desejo de Matar (06 Filmes)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B001-COL-Des.de.Matar.LS4-ALL</externallink>
-<thumbnail>https://i.ibb.co/z8HRfMk/COL-DES-MATAR-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/NCDG58Q/COL-DES-MATAR-FAN.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Desejo de Matar
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
+<item>
+<title>[COLOR white][B]10 Minutos Para Morrer (1983) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/10.Minutos.Para.Morrer(1983).mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/piK282L3PUlQLp0P0RY8Ehu7iAb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8HbC8MKbmqJyzbFrmnNW8y6EHpH.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]10 Minutos Para Morrer
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Warren Stacy é um serial killer que sente prazer em ficar nu enquanto esfaqueia 
+suas vítimas.Leo Kessler, um policial veterano, "planta" falsas evidências para obter uma condenação.
 [/B][COLOR black].[/COLOR]
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Charles Bronson (Filmes) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A1A-FLM-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/C1BJ5Gm/COL-CHARLES-BRONSON-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/5WPdbCz/COL-CHARLES-BRONSON-FAN.png</fanart>
-<info>[COLOR white]Conheça a coleção:
-[B]Filmes de AÇÂO
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+<item>
+<title>[COLOR white][B]A Fronteira (1980) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/FLM/ASAO/LS-1980.A.Fronteira.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4N81NVxBrK1mwnlnho7SrXJXDfe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bLb9T1Gf5uG8q0a33d5d0ZzDaSf.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Fronteira
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1980
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jeb Maynard é um Oficial da Patrulha da Fronteira dos EUA, localizada a vinte milhas de 
+San Diego. Quando o seu melhor amigo, Scooter Jackson, e um jovem rapaz mexicano são mortos, Jeb fica enfurecido. 
 [/B][COLOR black].[/COLOR]
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Adeus Amigo (1968) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jk8tuEAaxpi6kgIX02FK1aXvKuT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gCzovLOWMZHw1OsHY6EmHmdRLHC.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Adeus Amigo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Depois de servirem juntos na Legião Estrangeira Francesa, um mercenário e um médico 
+deixam o serviço militar e seguem caminhos separados. Mais tarde, eles se reencontram e se envolvem em uma trama terrível.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Alguém Atrás da Porta (1971) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Alguem.Atras.da.Porta.(1971).mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wLEQlgqHU7H3NJLw4whLzz3rXed.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rAA7tZsfGJrXvwuqiiPfXeliovC.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Alguém Atrás da Porta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um médico quer matar sua infiel esposa e seu amante. Com a sorte de seu lado ele 
+encontra um homem que além de psicótico está sofrendo de amnésia. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Assassinato Nos Estados Unidos (1987) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Assassinato.Nos.Estados.Unidos.(1987).mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qmkYA7ZDKHx96Tiek0OjbfwWujG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2wppBUiW2dJQtM9M0XeWHORghkC.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jay é guarda-costas do presidente dos Estados Unidos, mas, quando um novo presidente
+ é eleito, ele é incumbido de proteger a primeira-dama. Eles não simpatizam um com o outro, mas ela passa a confiar nele.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Assassino a Preço Fixo (1972) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/FLM/ASAO/LS-1972.Assassino.A.Prezo.Fixo.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/82gL9kLk4iroE4MfxnW6j41DMfg.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Assassino a Preço Fixo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1972
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Arthur Bishop é um assassino de elite com um código restrito e um talento único para 
+eliminar alvos. Quando seu mentor e amigo Harry é assassinado, ele decide matar aqueles responsáveis pela sua morte.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Cabo Blanco (1980) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Cabo.Blanco.(1980).mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3I36PUMSiXL88JzXr5b6ogp7NUf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vlyHtJ6dXKreboRvrCkfTnQm6kx.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Cabo Blanco
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Giff Hoyt, dono de um café em Cabo Blanco, Peru, após a Segunda Guerra Mundial, 
+fica preso entre nazistas em busca de refúgio e seus inimigos a corrupta polícia local.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Cidade Violenta (1970) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Cidade.Violenta.(1970).mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/feBfLnk64IqQZa6mZGQ8poYfyzv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y4BWsaJ5IcvL9a3WUNuooe0OCPO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Cidade Violenta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um assassino é traído por sua namorada e escapa por pouco de uma tentativa de 
+assassinato. Ele então decide se vingar da mulher e do chefe da gangue que a induziu a fazer isso.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Desafiando o Assassino (1974) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Desafiando.o.Assassino.(1974).mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/b4hYlFcBgQZT2fvf6smtwUU3gP.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/ouelGvRMrl9HTxJSBg7XqffUUvu.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desafiando o Assassino
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1974
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Vince Majestyk, só quer cultivar suas melancias e viver em paz. Mas o chefe da máfia 
+local tem idéias diferentes. Quando seus trabalhadores são ameaçados, o Sr. Majestyk decide ajudá-los.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Fuga Audaciosa (1975)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Fuga.Audaciosa.(1975).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Jogo Sujo (1973)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Jogo.Sujo.(1973).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Justiça Selvagem (1984)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Justisa.Selvagem.(1984).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Kinjite Desejos Proibidos (1989)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Kinjite.Desejos.Proibidos.(1989).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Lutador de Rua (1975)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Lutador.de.Rua.(1975).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Mensageiro da Morte (1988)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Mensageiro.da.Morte.(1988).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Passageiro da Chuva (1970)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/O.Passageiro.da.Chuva.(1970).mp4</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Telefone (1977)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/LS-FLM/LS-O.Telefone.1977.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Vingador (1986)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/O.Vingador.(1986).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Segredos da Cosa Nostra (1972)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/LS-CosaNostra.1972.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Visitantes na Noite (1970)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Visitantes.na.Noite.(1970).mp4</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Robur o Conquistador do Mundo (1961)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Robur.o.Conquistador.do.Mundo.(1961).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Corruptos e Sanguinários (1970)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-1970.Corruptos.Sanguinarios.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Fugindo do Inferno (1963)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Fugindo.do.Inferno.(1963).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Doze Condenados (1967)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Dirty.Dozen.1967.FHD.DUAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Uma Batalha no Inferno (1965)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Uma.Batalha.no.Inferno.(1965).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Apache: O Último Bravo (1954)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Apache.Massai.O.Ultimo.Bravo.(1954).avi</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Chumbo Quente (1977)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Era Uma Vez No Oeste (1968)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Leone.Sergio/LS-1969.Era.uma.Vez.no.Oeste.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Estrondo de Tambores (1961)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Estrondo.de.Tambores.1961.FHD.DUB+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Grande Assalto (1976)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/O.Grande.Assalto.(1976).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Grande Búfalo Branco (1977)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/O.Grande.Bufalo.Branco.(1977).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trem do Inferno (1975)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/O.Trem.do.Inferno.(1975).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Canhões de San Sebastian (1968)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Canhoes.de.San.Sebastian.1968.FHD.DUB.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Perseguição Mortal (1981)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Renegado Impiedoso (1972)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/LS-Renegado.Impiedoso.1972.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Sol Vermelho (1971)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Villa O Caudilho (1968)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Pancho.Villa.1968.FHD.DUB.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Sete Homens e Um Destino (1960)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Sete.Homens/LS-1-Sete.Homens.e.Um.Destino.1960.FHD.TRIAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Valdez O Mestiço (1973)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Vera Cruz (1954)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Vera.Cruz.1954.FHD.DUAL+LEG.mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Mulher Absoluta (1952)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/A.Mulher.Absoluta.(1952).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Esta Mulher é Proibida (1966)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Esta.Mulher.e.Proibida.(1966).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Montanhas Ardentes (1952)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Montanhas.Ardentes.(1952).mkv</link>
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A1-COL-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A1-COL-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOVIDADES DA SEMANA
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOSTALGIA
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]ESPECIAIS
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]SÉRIES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]FILMES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]MENU GERAL
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

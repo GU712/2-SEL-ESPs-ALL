@@ -158,16 +158,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sergio Leone[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B4-COL-Leone.Sergio-ALL</externallink>
-<thumbnail>https://i.ibb.co/ry6RKfK/COL-LEONE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8bzWfNG/COL-LEONE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Sergio Leone[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B004-COL-Leone.Sergio-ALL</externallink>
+<thumbnail>https://i.ibb.co/N91ZMXQ/COL-SERGIO-LEONE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/0rvHp5N/COL-SERGIO-LEONE-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sergio Leone
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DIRETORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -194,16 +195,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zé do Caixão[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B12-COL-Ze.Caixao-ALL</externallink>
-<thumbnail>https://i.ibb.co/jH7mTwm/COL-ZECAIXAO-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/GpzFGZF/COL-ZECAIXAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Zé do Caixão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B012-COL-Ze.Caixao-ALL</externallink>
+<thumbnail>https://i.ibb.co/H2fWMcm/COL-ZECAIXAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/3Y6nkNM/COL-ZECAIXAO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Zé do Caixão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>

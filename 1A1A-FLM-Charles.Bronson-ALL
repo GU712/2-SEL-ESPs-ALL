@@ -456,8 +456,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Uma Batalha no Inferno
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1965
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O comando das Forças Aliadas já comemora o triunfo sobre as combalidas forças nazistas
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O comando das Forças Aliadas já comemora o triunfo sobre as combalidas forças nazistas
  por toda a Europa. Quando remanescentes do quase derrotado exército nazista planejam um ataque surpresa às forças aliadas.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -475,7 +475,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Apache: O Último Bravo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Massai, o último guerreiro apache na luta pelos direitos do seu povo, uma das maiores 
 lendas. Começou em 1886 com a rendição de Gerônimo, um líder apache invencível, que decide não se render à força..
 [/B][COLOR black].[/COLOR]
@@ -485,33 +485,35 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Chumbo Quente (1977)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<title>[COLOR white][B]Chumbo Quente (1977) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi</link>
-<thumbnail><ICONE></thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/cLH1wHLIXI8ejirfE31HGaFhmX4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/A4YEee3brc9wdybLDNZ6wZWDvRk.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme:
-[B]<NOMEDOFILME>
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[B]Chumbo Quente
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Estamos na época do desbravamento do Oeste, dos grandes rebanhos de gado que cortam
+ cidades,homens armados dispostos a matar para se defender ou pelo simples prazer de matar! Ben Justin é um desses homens.
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+  
 <item>
-<title>[COLOR white][B]Era Uma Vez No Oeste (1968)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<title>[COLOR white][B]Era Uma Vez No Oeste (1968) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Leone.Sergio/LS-1969.Era.uma.Vez.no.Oeste.FHD.DUAL+LEG-LS.mkv</link>
-<thumbnail><ICONE></thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg</thumbnail>							
+<fanart>https://www.themoviedb.org/t/p/original/aKZ9hDmLJTaGSxWdhxqMTcvXmk4.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme:
-[B]<NOMEDOFILME>
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[B]Era Uma Vez No Oeste
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Enquanto os construtores ferroviários marcham imparavelmente através do deserto 
+de Arizona a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de começar uma nova vida.
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
@@ -519,21 +521,23 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Estrondo de Tambores (1961)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Estrondo.de.Tambores.1961.FHD.DUB+LEG-LS.mkv</link>
-<thumbnail><ICONE></thumbnail>
-<fanart><FUNDO></fanart>
-<info>[COLOR white]Assista aqui o filme:
-[B]<NOMEDOFILME>
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
-[/B][COLOR black].[/COLOR]
+<title>[COLOR white][B]Estrondo de Tambores (1961) - FHD DUB+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/FLM/LS-1961.Estrondo.de.Tambores.FHD.DUB+LEG-LS.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ovHvxv8HFbSYVUSiq3WjZcUDfnU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v4rabt4GOFHCCj9TcUK5CbHH5ln.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Estrondo de Tambores
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Soldados da Cavalaria enfrentam problemas com Apaches e Comanches num posto de fronteira
+ em 1870. Esse é o domínio do Capitão Stephen Maddocks, que foi obrigado a comandar metade de um pelotão
+[COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]O Grande Assalto (1976)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -544,7 +548,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -561,7 +565,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -578,7 +582,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -595,7 +599,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -612,7 +616,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -629,7 +633,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -646,7 +650,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -663,7 +667,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -680,7 +684,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -697,7 +701,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -714,7 +718,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -731,7 +735,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -748,7 +752,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -765,7 +769,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]<NOMEDOFILME>
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÂO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM

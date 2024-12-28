@@ -49,16 +49,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Eddie Murphy[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D1-COL-Eddie.Murphy-ALL</externallink>
-<thumbnail>https://i.ibb.co/mD3f4FY/COL-EDDIE-M-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Dg3Dnff/COL-EDDIE-M-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Eddie Murphy[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D01-SEL-Eddie.Murphy-ALL</externallink>
+<thumbnail>https://i.ibb.co/CJk8DcX/ESP-EDDIE-MURPHY-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/T854KPh/ESP-EDDIE-MURPHY-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Eddie Murphy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>

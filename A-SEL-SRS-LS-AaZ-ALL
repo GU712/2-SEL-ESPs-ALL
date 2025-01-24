@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B21-SEL-SRS-LETRA-T-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
@@ -10,18 +10,23 @@ E DIVIRTA-SE[/B]</info>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+
 <channels>
 <channel>
-<name>[COLOR white][B]Numerais (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A01-SEL-SRS-NUM-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/NUM.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Numerais
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]The Phanton (1943) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D02-COL-O.Fantasma-ALL</externallink>
+<thumbnail>https://i.imgur.com/vgiIJTd.jpg</thumbnail>
+<fanart>https://i.imgur.com/whdki8j.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Phanton
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1943
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 15 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Professor Davidson planeja uma expedição para encontrar a Cidade Perdida de Zoloz. 
+A localização da cidade está contida em sete peças de marfim, das quais três Davidson já possui. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -30,15 +35,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra A (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B02-SEL-SRS-LETRA-A-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/A.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra A
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]The Big Valley (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C017-SRS-The.Big.Valley.1965-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/5J323H8Dl0dX6IEsMXhaxcLIQW5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v57TanoRlAwBye6UOF1s6O7GFDf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Big Valley
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 112 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]The Big Valley é uma série de faroeste exibida na ABC de 15 de setembro de 1965 a 
+19 de maio de 1969. O programa é estrelado por Barbara Stanwyck, como a viúva de um rico fazendeiro da Califórnia do século XIX.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -47,15 +57,41 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra B (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A03-SEL-SRS-LETRA-B-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/B.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra B
+<name>[COLOR white][B]The Rat Patrol (1966-1968) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C6-SRS-The.Rat.Patrol-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/wHJQ7QpmcqY0x6kGdlAwoJToUmo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qj8GmDzclHfpENki7x6WoUNt6UP.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Rat Patrol
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 58 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As façanhas de quatro soldados aliados – três americanos e um inglês – que fazem 
+parte de um grupo de patrulha do deserto de longo alcance na campanha do Norte de África durante a Segunda Guerra Mundial. 
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D04B-SRS-Tarzan-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Tarzan
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 57 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No coração da selva, uma criança foi encontrada e criada pelos grandes macacos. 
+O menino recebeu o nome de Tarzan
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -64,15 +100,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra C (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B04-SEL-SRS-LETRA-C-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/C.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra C
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]Terra de Gigantes (1968-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C010-SRS-Terra.de.Gigantes-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ljbqDwgOoqYvQ6WRnuLr8QleEkH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j9IbFAlk0ixd4mj0CJSiGmzE7A7.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Terra de Gigantes
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1968 a 1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 51 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo 
+atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -81,15 +122,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra D (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A05-SEL-SRS-LETRA-D-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/D.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra D
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]Trio Calafrio (1975) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C49-COL-Trio.Calafrio-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/e6870w2UUqIu1Ndza5xaG5ULia5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dPOzeeGWr0dM3EVAMgmvkBFqIrY.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Trio Calafrio
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 15 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Ghost Busters foi uma série de televisão infantil de comédia exibida em 1975, 
+sobre uma equipe de detetives desajeitados que investigariam ocorrências fantasmagóricas.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]TV Pirata (1988-1992) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C39-SRS-TV.Pirata-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/bhEej1kmk9ADmHm25RAWv8wh7QB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2TvIuQpT7vXDrToQiI9n0Sl9hgo.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]TV Pirata
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1988 a 1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 34 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma seleção de quadros e episódios, dentre os melhores da série, exibidos de 1988 a 1992 
+na TV Globo. E ainda duas novelas completas: 'Fogo no Rabo' e 'O Segredo de Darcy'.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Flash - O Último Vingador (1990) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D04B2-SRS-The.Flash-1990-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vYRRFhgdiq7ZdrxiLm5Zudtr0Tl.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Flash - O Último Vingador
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, 
+precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -98,15 +186,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra E (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A06-SEL-SRS-LETRA-E-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/E.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra E
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]TV Colosso (1993-1997) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D05B-SRS-TV.Colosso-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vzVbjj3CdMwtbYI5zBaRpmspqZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d3iYr7oWENgO4t99Mi4KuDYwA0o.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]TV Colosso
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - +100 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Programa infantojuvenil estrelado por bonecos, que alterna quadros com exibição de 
+desenhos animados. O cast de bonecos é composto por 28 fantoches, sendo 25 cachorros e três pulgas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -115,15 +208,104 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra F (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A07-SEL-SRS-LETRA-F-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/F.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra F
+<name>[COLOR white][B]Teletubbies (1997-2022) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/C6-SER-Teletubbies-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/5QPz0Ddik0Gp32Nq5bTFgsEv9J8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kOOwNR8f4cI6wr5MBRzx5MM2HRD.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Teletubbies
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1997 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]INFANTIL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - +100 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Teletubbies é um programa de televisão produzido pela BBC voltado para bebês e crianças 
+pré-escolares.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Todo Mundo Odeia o Chris (2005-2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C45-SRS-Todo.Mundo.Odeia.Chris-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2T0s6klQLvtFOzsqA9512uu5ltf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Todo Mundo Odeia o Chris
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseada vagamente nas experiências pessoais do ator e comediante Chris Rock no bairro de 
+Bed-Stuy, em Nova Iorque, durante a década de 1980 (1982 a 1987).
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Toma Lá, Dá Cá (2007-2009) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C36-SRS-Toma.La.Da.Ca-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9KyafMIchKWTjRmtE7I41uDBDFv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j46YBxcV9LiOY2eKgbSHuAvaJpI.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Toma Lá, Dá Cá
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2007 a 2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 92 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Duas famílias separadas por um corredor, mas que participam ativamente da vida uns dos 
+outros.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Pacific (2010) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C002-SRS-The.Pacific.2010-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Pacific
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A jornada de três membros do Corpo de Fuzileiros Navais dos Estados Unidos, desde a 
+primeira batalha contra o Japão, em Guadalcanal, até seu retorno após o grande triunfo que deu fim à Segunda Guerra Mundial.
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Walking Dead (2010-2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04B1G-SRS-TWD.A.Serie.2010-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fOPL4PhvxzFk6LAWHveVFTlHvO6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sZdtZAYlXGTwAzCei70jQw6b7Bh.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Walking Dead
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPs - 178 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue 
+viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca à beira da insanidade.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -132,15 +314,84 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra G (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/G.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra G
+<name>[COLOR white][B]Teen Wolf (2011-2016) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D02B1-SRS-Teen.Wolf.2011-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/xYxsb5ojRmIK7Bi6YwWF3C4F1Vr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Teen Wolf
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 110 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após ser mordido por um animal, Scott vira lobisomem e é o cara adorado por todas na escola.
+ Só que ele também ganha novos problemas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Fall (2013-2016) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C43-SRS-The.Fall-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l8SEktEemmiCk8QT1su0wGCGgnj.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Fall
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma detetive luta contra seus demônios pessoais enquanto tenta capturar um serial killer 
+escondido sob a fachada de homem de família
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Good Doctor: O Bom Doutor (2017) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C5-SRS-O.Bom.Doutor-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEjPLgJ53X5P9CmoiTf2IQo26br.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Bom Doutor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 116 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da
+ profissão, ele terá também que provar sua capacidade a seus colegas e superiores.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The ABC Murders (2018) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D03B2-SRS-The.ABC.Murders.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/u6BnxQelHWtWHfDx3oNnb2Ct1HD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vu2ncrhzywzgYZGkhFhyULKE2Ds.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The ABC Murders
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 03 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um serial killer à solta, matando suas vítimas em ordem alfabética. A única pista 
+é um cartão de visitas que o assassino deixa em cada cena do crime - um guia ferroviário aberto na cidade onde a morte acontece.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -149,15 +400,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra H (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A09-SEL-SRS-LETRA-H-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/H.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra H
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]Terrores Urbanos (2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C002-SRS-Terrores.Urbanos.2018-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zifIuDHn5lPTme0FbZW08hxs3t5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Terrores Urbanos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 05 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Terrores Urbanos é uma série da Record TV onde cinco lendas urbanas, de diferentes regiões do país,
+são contadas de maneira nunca antes vista.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -166,15 +422,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra I (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A10-SEL-SRS-LETRA-I-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/I.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra I
+<name>[COLOR white][B]The Rookie (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C51-SRS-The.Rookie.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/iCf0II8ueZa47fiaVhdgmGdvaCC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zjtcZVj62ZEYVSXUOeF3McuWqxy.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Rookie
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 108 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Nolan, um homem de 40 anos, deixa para trás sua vida confortável em uma cidade 
+pequena para viver seu sonho de ser um agente policial no Departamento de Polícia de Los Angeles.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Witcher (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C2-SRS-The.Witcher-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/AeviafFfWUhfzdcsiX7S9655rWV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/udwyPqbwWlpqvMgfbRemOahzc7z.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Witcher
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 24 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar 
+num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Chosen: Os Escolhidos (2019-2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C003-SRS-The.Chosen-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w342/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/74CaT8etPTtBPtuMbrqpNBDXBXA.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Chosen: Os Escolhidos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A série presenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, 
+Jesus de uma forma nunca antes vista em filme.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -183,15 +486,41 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra J (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/B11-SEL-SRS-LETRA-J-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/J.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra J
+<name>[COLOR white][B]The Secrets She Keeps (2020-2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C56-SRS-The.Secrets.She.Keeps.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3IqfC1nJJTfOBhKv23qreRwMifG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s3E9xdGuDgxalyT9QQj3SbJfdpM.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Secrets She Keeps
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 12 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Num subúrbio rico de Sydney, duas mulheres têm um encontro casual num supermercado. 
+Elas têm a mesma idade, estão grávidas e grávidas ao mesmo tempo.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Walking Dead: Um Novo Universo (2020-2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04B1E-SRS-TWD.Um.Novo.Universo.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/vaUcX3gGsdr086S8vIGowl3yOFn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pLVrN9B750ehwTFdQ6n3HRUERLd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Walking Dead: Um Novo Universo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um grupo de adolescentes abrigados dos perigos do mundo pós-apocalíptico recebe 
+uma mensagem que os inspira a deixar a segurança do único lar que já conheceram e embarcar em uma jornada pelo país para salvar seu pai.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -200,15 +529,41 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra K (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A12-SEL-SRS-LETRA-K-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/K.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra K
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]The Liberator (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/refs/heads/main/C001-SRS-The.Liberator.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>		
+<fanart>https://image.tmdb.org/t/p/original/uU23hb1c3LRqszBmBftLc2cMhbx.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Liberator
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 04 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um grupo de corajosos soldados rejeitados realiza alguns dos feitos mais heroicos 
+para libertar a Europa na Segunda Guerra Mundial.
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Ex-Wife (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C059-SRS-The.Ex.Wife.2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/vp5Vs17MUizJ7bQNMRsUcvDVquC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/imt5AkPgo4oZb8sPzbZJov4B5pW.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Ex-Wife
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 04 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tasha está vivendo um sonho, ela tem a casa perfeita, um marido amoroso e uma linda garotinha.
+ Mas há uma grande mancha no cenário conjugal de Tasha: a ex-mulher de seu marido não os deixa em paz.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -217,15 +572,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra L (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A13-SEL-SRS-LETRA-L-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/L.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra L
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]The Walking Dead: Dead City (2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04B1B-SRS-TWD.Dead.City.2023-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/7gaq7sOWLa70fzUxdM21hf3RWP7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7TozQsub8fBMDz2iZxJPgVgnMRv.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Walking Dead: Dead City
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Maggie e Negan viajam para uma Manhattan pós-apocalíptica, há muito tempo isolada 
+do continente. A cidade em ruínas está cheia de mortos e habitantes que fizeram de Nova York seu próprio mundo cheio de anarquia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -234,15 +594,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra M (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A14-SEL-SRS-LETRA-M-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/M.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra M
+<name>[COLOR white][B]The Acolyte (2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B5-SRS-The.Acolyte.2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/xeeF1KWSz8EEUl8RBz64qRnxm7V.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rESl7LDH1ug94KMVW2jtbM3I7SZ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Acolyte
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma investigação sobre uma terrível onda de crimes coloca uma Mestra Jedi contra uma 
+perigosa guerreira de seu passado.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -251,15 +616,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra N (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A15-SEL-SRS-LETRA-N-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/N.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra N
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]TWD : The Ones Who Live (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D04B1A-SRS-TWD.The.Ones.Who.Live.2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4W9kyBFT69ORP5Jzk9mVMGBBO4R.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Ones Who Live
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história de amor entre Rick e Michonne, transformada por um mundo que está em 
+constante mudança, eles se encontrarão em uma guerra contra os vivos ou descobrirão que também são The Walking Dead.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -268,212 +638,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra O (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B16-SEL-SRS-LETRA-O-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/O.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra O
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
+<name>[COLOR white][B]Terra Indomável (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C018-SRS-Terra.Indomavel.2025-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/4uHGMf2ifvcNLI3LouDuO41E1Dq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/huHd7TQLXJhoIZZdMiLZgo7LJeW.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Terra Indomável
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma mãe e o filho em fuga do passado formam uma família por afinidade enquanto 
+enfrentam um contexto de liberdade e crueldade no Faroeste.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Letra P (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A17-SEL-SRS-LETRA-P-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/P.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra P
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra Q (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A18-SEL-SRS-LETRA-Q-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Q.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra Q
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra R (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A19-SEL-SRS-LETRA-R-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/R.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra R
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra S (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B20-SEL-SRS-LETRA-S-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/S.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra S
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra T (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A21-SEL-SRS-LETRA-T-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/T.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra T
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra U (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A22-SEL-SRS-LETRA-U-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/U.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra U
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra V (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A23-SEL-SRS-LETRA-V-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/V.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra V
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra W (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A26-SEL-SRS-LETRA-W-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/W.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra W
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra X (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A24-SEL-SRS-LETRA-X-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/X.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra X
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra Y (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A25-SEL-SRS-LETRA-Y-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Y.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra Y
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Letra Z (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A27-SEL-SRS-LETRA-Z-ALL</externallink>
-<thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Z.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Séries: 
-[B]Letra Z
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B21-SEL-SRS-LETRA-T-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -483,7 +672,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B21-SEL-SRS-LETRA-T-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>

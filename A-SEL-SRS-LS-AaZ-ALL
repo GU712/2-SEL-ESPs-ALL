@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
-<thumbnail>https://i.ibb.co/y5y7cYr/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
@@ -13,15 +13,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Numerais (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A01-SEL-FLM-NUM-ALL</externallink>
+<name>[COLOR white][B]Numerais (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A01-SEL-SRS-NUM-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/NUM.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Numerais
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -31,15 +30,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra A (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A02-SEL-FLM-LETRA-A-ALL</externallink>
+<name>[COLOR white][B]Letra A (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B02-SEL-SRS-LETRA-A-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/A.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra A
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -49,15 +47,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra B (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A03-SEL-FLM-LETRA-B-ALL</externallink>
+<name>[COLOR white][B]Letra B (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A03-SEL-SRS-LETRA-B-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/B.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra B
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -67,15 +64,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra C (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A04-SEL-FLM-LETRA-C-ALL</externallink>
+<name>[COLOR white][B]Letra C (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B04-SEL-SRS-LETRA-C-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/C.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra C
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -85,15 +81,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra D (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A05-SEL-FLM-LETRA-D-ALL</externallink>
+<name>[COLOR white][B]Letra D (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A05-SEL-SRS-LETRA-D-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/D.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra D
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -103,15 +98,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra E (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A06-SEL-FLM-LETRA-E-ALL</externallink>
+<name>[COLOR white][B]Letra E (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A06-SEL-SRS-LETRA-E-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/E.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra E
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -121,15 +115,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra F (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A07-SEL-FLM-LETRA-F-ALL</externallink>
+<name>[COLOR white][B]Letra F (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B07-SEL-SRS-LETRA-F-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/F.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra F
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -139,15 +132,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra G (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A08-SEL-FLM-LETRA-G-ALL</externallink>
+<name>[COLOR white][B]Letra G (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A08-SEL-SRS-LETRA-G-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/G.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra G
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -157,15 +149,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra H (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A09-SEL-FLM-LETRA-H-ALL</externallink>
+<name>[COLOR white][B]Letra H (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A09-SEL-SRS-LETRA-H-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/H.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra H
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -175,15 +166,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra I (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A10-SEL-FLM-LETRA-I-ALL</externallink>
+<name>[COLOR white][B]Letra I (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A10-SEL-SRS-LETRA-I-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/I.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra I
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -193,15 +183,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra J (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A11-SEL-FLM-LETRA-J-ALL</externallink>
+<name>[COLOR white][B]Letra J (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/B11-SEL-SRS-LETRA-J-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/J.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra J
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -211,15 +200,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra K (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A12-SEL-FLM-LETRA-K-ALL</externallink>
+<name>[COLOR white][B]Letra K (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A12-SEL-SRS-LETRA-K-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/K.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra K
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -229,15 +217,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra L (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A13-SEL-FLM-LETRA-L-ALL</externallink>
+<name>[COLOR white][B]Letra L (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A13-SEL-SRS-LETRA-L-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/L.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra L
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -247,15 +234,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra M (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A14-SEL-FLM-LETRA-M-ALL</externallink>
+<name>[COLOR white][B]Letra M (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A14-SEL-SRS-LETRA-M-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/M.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra M
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -265,15 +251,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra N (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A15-SEL-FLM-LETRA-N-ALL</externallink>
+<name>[COLOR white][B]Letra N (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A15-SEL-SRS-LETRA-N-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/N.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra N
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -283,15 +268,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra O (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A16-SEL-FLM-LETRA-O-ALL</externallink>
+<name>[COLOR white][B]Letra O (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B16-SEL-SRS-LETRA-O-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/O.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra O
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -301,15 +285,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra P (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A17-SEL-FLM-LETRA-P-ALL</externallink>
+<name>[COLOR white][B]Letra P (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A17-SEL-SRS-LETRA-P-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/P.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra P
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -319,15 +302,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra Q (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A18-SEL-FLM-LETRA-Q-ALL</externallink>
+<name>[COLOR white][B]Letra Q (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A18-SEL-SRS-LETRA-Q-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Q.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra Q
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -337,15 +319,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra R (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A19-SEL-FLM-LETRA-R-ALL</externallink>
+<name>[COLOR white][B]Letra R (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A19-SEL-SRS-LETRA-R-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/R.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra R
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -355,15 +336,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra S (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A20-SEL-FLM-LETRA-S-ALL</externallink>
+<name>[COLOR white][B]Letra S (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B20-SEL-SRS-LETRA-S-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/S.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra S
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -373,15 +353,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra T (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A21-SEL-FLM-LETRA-T-ALL</externallink>
+<name>[COLOR white][B]Letra T (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A21-SEL-SRS-LETRA-T-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/T.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra T
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -391,15 +370,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra U (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A22-SEL-FLM-LETRA-U-ALL</externallink>
+<name>[COLOR white][B]Letra U (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A22-SEL-SRS-LETRA-U-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/U.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra U
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -409,15 +387,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra V (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A23-SEL-FLM-LETRA-V-ALL</externallink>
+<name>[COLOR white][B]Letra V (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A23-SEL-SRS-LETRA-V-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/V.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra V
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -427,15 +404,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra W (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A26-SEL-FLM-LETRA-W-ALL</externallink>
+<name>[COLOR white][B]Letra W (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A26-SEL-SRS-LETRA-W-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/W.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra W
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -445,15 +421,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra X (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A24-SEL-FLM-LETRA-X-ALL</externallink>
+<name>[COLOR white][B]Letra X (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A24-SEL-SRS-LETRA-X-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/X.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra X
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -463,15 +438,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra Y (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A25-SEL-FLM-LETRA-Y-ALL</externallink>
+<name>[COLOR white][B]Letra Y (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A25-SEL-SRS-LETRA-Y-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Y.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra Y
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -481,15 +455,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Letra Z (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A27-SEL-FLM-LETRA-Z-ALL</externallink>
+<name>[COLOR white][B]Letra Z (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A27-SEL-SRS-LETRA-Z-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/A-Z/Z.jpg</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
-<info>[COLOR white]Lista de Filmes: 
+<info>[COLOR white]Lista de Séries: 
 [B]Letra Z
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar links para os filmes do SERVER LS.
-[/B][COLOR black].[/COLOR] 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar links para as Séries.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -500,7 +473,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -510,7 +483,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>

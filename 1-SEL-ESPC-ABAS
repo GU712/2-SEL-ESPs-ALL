@@ -1,11 +1,10 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -13,14 +12,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ARTES MARCIAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D02-SEL-Artes.Marciais-ALL</externallink>
-<thumbnail>https://i.ibb.co/HPtZtbv/ABA-ARTES-MARCIAIS-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/rtBv9ns/ABA-ARTES-MARCIAIS-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ARTES MARCIAIS
+<name>[COLOR white][B]Bruce Lee[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D06A-FLM-Bruce.Lee-ALL</externallink>
+<thumbnail>https://i.ibb.co/K2GwrPB/ESP-B-LEE-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/WpF2LkC/ESP-B-LEE-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de filmes: 
+[B]Bruce Lee
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ARTES MARCIAIS
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -32,12 +31,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ATORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1A-SEL-ATORES-ALL</externallink>
-<thumbnail>https://i.ibb.co/pKdf5kk/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/K0TGbsB/ABA-ATORES-DIRETORES-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ATORES
+<name>[COLOR white][B]Charles Bronson[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A1-COL-Charles.Bronson-ALL</externallink>
+<thumbnail>https://i.ibb.co/XSc2zLM/COL-CHARLES-BRONSON-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/d0RS8X3/COL-CHARLES-BRONSON-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Charles Bronson
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -51,14 +50,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> FICÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/2A-SEL-FIC-ALL</externallink>
-<thumbnail>https://i.ibb.co/HXSBQ3m/ABA-FIC-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/r6dFDdT/ABA-FIC-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor da: 
-[B]FICÇÃO
+<name>[COLOR white][B]Eddie Murphy[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D01-SEL-Eddie.Murphy-ALL</externallink>
+<thumbnail>https://i.ibb.co/CJk8DcX/ESP-EDDIE-MURPHY-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/T854KPh/ESP-EDDIE-MURPHY-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Eddie Murphy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -70,14 +69,86 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ANIMAÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/3A-SEL-ANIMA-ALL</externallink>
-<thumbnail>https://i.ibb.co/9hFz7zq/ABA-ANIMA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ncM06bG/ABA-ANIMA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ANIMAÇÃO
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Elvis Presley[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B2-COL-Elvis.Presley-ALL</externallink>
+<thumbnail>https://i.ibb.co/gPLYPkk/COL-ELVIS-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/nQvMjXT/COL-ELVIS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Elvis Presley
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jerry Lewis[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B6-COL-Jerry.Lewis-ALL</externallink>
+<thumbnail>https://i.ibb.co/hgwnGWL/COL-JERRY-LEWIS-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/R35CqJj/COL-JERRY-LEWIS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Jerry Lewis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Wayne[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B5-COL-John.Wayne-ALL</externallink>
+<thumbnail>https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/chrYwzp/COL-WAYNE-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]John Wayne
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Louis de Funès[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B5-COL-Louis.de.Funes-ALL</externallink>
+<thumbnail>https://i.ibb.co/vwtM05S/COL-FUNE-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/9rpks12/COL-FUNE-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Louis de Funès
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Mazzaropi (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A2-COL-Mazzaropi-ALL</externallink>
+<thumbnail>https://i.ibb.co/HBgZR2y/COL-MAZZAROPI-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/fqj704k/COL-MAZZAROPI-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Mazzaropi
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -89,14 +160,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> MONSTROS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/4A-SEL-FEAR-ALL</externallink>
-<thumbnail>https://i.ibb.co/VC3KKFv/ABA-FEAR2-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/hKMzc21/ABA-FEAR2-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]MONSTROS
+<name>[COLOR white][B]Sergio Leone[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B004-COL-Leone.Sergio-ALL</externallink>
+<thumbnail>https://i.ibb.co/N91ZMXQ/COL-SERGIO-LEONE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/0rvHp5N/COL-SERGIO-LEONE-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Sergio Leone
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]MONSTROS
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DIRETORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -108,17 +179,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> SUPER-HERÓIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/6A-SEL-HERO-ALL</externallink>
-<thumbnail>https://i.ibb.co/MSxV1H1/ABA-HERO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/XxgtTZz/ABA-HERO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]SUPER-HERÓIS
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Terence Hill e Bud Spencer[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B6-COL-Terence.Hill.Bud.Spencer-ALL</externallink>
+<thumbnail>https://i.ibb.co/4dmM96F/COL-TERENCE-BUD-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/S5NHZYy/COL-TERENCE-BUD-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Terence Hill e Bud Spencar
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -127,14 +197,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> PERSONAGENS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/5A-SEL-PERSON-ALL</externallink>
-<thumbnail>https://i.ibb.co/02kHMfv/ABA-PERSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3hrPYDC/ABA-PERSON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]PERSONAGENS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
+<name>[COLOR white][B]Zé do Caixão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B012-COL-Ze.Caixao-ALL</externallink>
+<thumbnail>https://i.ibb.co/H2fWMcm/COL-ZECAIXAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/3Y6nkNM/COL-ZECAIXAO-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Zé do Caixão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -143,32 +213,12 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> NACIONAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A3-SEL-COL-NCNS-ALL</externallink>
-<thumbnail>https://i.ibb.co/Vj60h0r/ABA-NCNS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ySpsSD0/ABA-NCNS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]NACIONAIS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NACIONAIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -178,7 +228,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
